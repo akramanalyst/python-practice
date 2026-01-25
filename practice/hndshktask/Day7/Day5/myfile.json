@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "empid": "spi-0004",
+            "name": "Adil siddiqui",
+            "company": "soft pro india institute",
+            "designation": "HR"
+        },
+        {
+            "empid": "spi-0008",
+            "name": "Md Asif Ansari",
+            "company": "soft pro india institute",
+            "designaion": "software Engineer"
+        }
+    ]
+}

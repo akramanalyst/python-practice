@@ -1,0 +1,11 @@
+from mypackage import * 
+r = int(input('Enter the radius of circle : '))
+s = int(input('Enter the side of square : '))
+l = int(input('Enter the length of rectangle : '))
+b = int(input('Enter the breadth of rectangle : '))
+print('Area of circle = ',area_of_circle(r))
+print('perimeter of circle =',peri_of_circle(r))
+print('area of square = ',area_of_square(s))
+print('perimeter of square = ',peri_of_square(s))
+print('area of rectangle',area_of_rectangle(l,b))
+print('perimeter of rectangle',peri_of_rectangle(l,b))

@@ -1,0 +1,6 @@
+emepid empname salary10002
+ rahim
+ 50000
+10002
+ rahim
+ 50000
